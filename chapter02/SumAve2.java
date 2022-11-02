@@ -1,6 +1,6 @@
 class SumAve2 {
   public static void main(String[] args) {
-    int x = 63;
+    int x = 64;
     int y = 18;
     
     System.out.println("xの値は" + x + "です。");
