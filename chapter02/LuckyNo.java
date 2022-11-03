@@ -6,6 +6,6 @@ class LuckyNo {
     
     int lucky = rand.nextInt(10);
     
-    System.out.println("今日のラッキーナンバーは" + lucky + "です。");
+    System.out.println('今日のラッキーナンバーは' + lucky + "です。");
   }
 }
